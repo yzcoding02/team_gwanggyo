@@ -1,5 +1,5 @@
 import turtle as t
-t.speed(5)
+t.speed(1)
 t.shape("turtle")
 t.color("skyblue","wheat")
 t.pensize(20)
